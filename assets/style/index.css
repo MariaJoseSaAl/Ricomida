@@ -1,0 +1,104 @@
+#ricomida{
+    color: white;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400rem;
+    font-style: normal;
+    margin-left: 10%;
+    margin-top: 15%;
+}
+.imagen-principal{
+    width: 500px;
+    height: 384px;
+    margin: 20%;
+}
+.inicio h1{
+    font-family: Cabin;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #373a3c;
+    text-align: left;
+    border-bottom: 1px solid black;
+    padding-bottom: 1rem;
+  }
+.inicio h3{
+    font-family: Cabin;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #373a3c;
+    text-align: left;
+    padding-bottom: 1rem;
+}
+#enviar{
+    font-family: Cabin;
+    font-size: 0.8rem;
+    font-weight: bold;
+    background-color: #ffffff;
+    border-color: #343333;
+}
+#agregar{
+    font-family: Cabin;
+    font-size: 0.8rem;
+    font-weight: bold;
+    font-size: 0.8rem;
+    font-weight: bold;
+    background-color: #ffffff;
+    border-color: #343333;
+}
+.d-block{
+    height: 300px;
+}
+.ingredientes{
+    font-family: Cabin;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-bottom: 2%;
+}
+.preparacion-ing{
+    font-family: Cabin;
+    font-weight: Regular;
+    color: #373A3C;
+}
+.titulo{
+    font-family: Cabin;
+    font-weight: Bold;
+    color: #373A3C;
+}
+.texto2{
+    font-family: Cabin;
+    font-weight: Regular;
+    color: #373A3C;
+}
+#rosa{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    height: 24rem;
+    background-color: #dc3545;
+    padding-top: 7rem;
+}
+.suscribete{
+    font-family: Cabin;
+    font-weight: Bold;
+    color: #ffffff;
+}
+.obten{
+    font-family: Cabin;
+    font-size: Lobster;
+    font-weight: Regular;
+    color: #ffffff;
+    }
+.ricomidafoot{
+    font-family: Lobster, sans-serif;
+    color: #ffffff;
+}
+#footer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 4rem;
+    background-color: #373a3c;
+    color: white;
+    font-family: "Lobster", sans-serif;
+}
+  
